@@ -46,4 +46,4 @@ A project presentation summarizing the *key insights and visuals* is included in
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/data-visualization-projects.git
+   git clone https://github.com/shahdshaker/data-visualization-projects.git
